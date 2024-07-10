@@ -5,13 +5,13 @@ Bu 8-dars uchun namuna tarzda yaratilgan repozitoriya
 </div>
 <hr>
 <div id="badges" align="center">
-  <a href="https://t.me/shohabbosdev">
+  <a href="https://t.me/ungarov_d">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Bu telegram badges">
   </a>
-  <a href="https://youtube.com/@shohabbosdev">
+  <a href="https://youtube.com/@dilmurodungarov3710">
     <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red" alt="Bu youtube badges">
   </a>
-  <a href="https://instagram.com/shohabbosdev">
+  <a href="https://instagram.com/ungarovd1lmurod">
     <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white" alt="Bu instagram badges">
   </a>
   <a href="https://facebook.com/shohabbosdev">
