@@ -1,7 +1,7 @@
-# lesson8
+# Home Work
 Bu 8-dars uchun namuna tarzda yaratilgan repozitoriya 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnB6emE2OG9kdGpycDZmdnhzMDZpb3Y4ZmQ2b2ZtbDQ4MmkyczRrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29uMjIyNzQ4cHdjNWZtOGhteGlydGpjcDBsYjhwM3dmNDBlOTZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </div>
 <hr>
 <div id="badges" align="center">
@@ -22,7 +22,6 @@ Bu 8-dars uchun namuna tarzda yaratilgan repozitoriya
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=freedom-1&label=PROFILNI+KO'RISHLAR+SONI" alt=""/>
 </div>
-
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
